@@ -1,0 +1,14 @@
+node_modules
+.next
+.sites-runtime
+.wrangler
+dist
+.git
+.vercel
+.env*
+!.env.example
+.agents
+.codex
+outputs
+work
+coverage
